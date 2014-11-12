@@ -58,6 +58,17 @@
 	
 
 
+* 볼만한 Javascript 및 웹 관련 사이트
 
+	- [Paper.js](http://paperjs.org)
+	- [cdnjs.com](http://cdnjs.com)
+
+
+* 간단 실습 (Sublime Text 사용전에)
+
+	- chrome web browser developer tools (mobile view, console, element, css 등)
+	- jsFiddle
+	- codepen (여기서 basic html, css, javascript를 익힐 수 있다)
+	- codio (이건 먼저 signup 해야 한다...)
 
 
