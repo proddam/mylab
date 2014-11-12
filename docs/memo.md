@@ -50,6 +50,11 @@
 
 	git bash의 속성 정보에서 옵션 - 빠른편집 부분을 체크해야 bash창에서 마우스 드래그로 copy, paste가 가능함
 
+
+
+* naver 첫페이지 로고 바꿔보기 - 크롬에서
+
+	https://raw.githubusercontent.com/proddam/mylab/master/images/ysu_logo.png
 	
 
 
