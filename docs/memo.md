@@ -27,6 +27,22 @@
 		+ a, tab
 		+ ajax, tab 
   
+* mongoDB 설치
+	
+	[http://www.mongodb.org/downloads](http://www.mongodb.org/downloads "mongoDB")에서 다운로드
+
+	- 실행하려면 git bash를 별도로 하나 띄워야 함
+
+	- ~/mongodb/data 폴더 만들고...
+
+	- ~/.bash_profile 에 path 추가
+
+		> export PATH="$PATH:/c/Program Files/Sublime Text 3/:/c/Program Files/MongoDB 2.6
+ Standard/bin/"
+
+	- 실행은 /c/Program\ Files/MongoDB\ 2.6\ Standard/bin/mongod --dbpath ~/mongodb/data/
+
+
 
 * git 설치
 
@@ -41,6 +57,7 @@
 	- 아래 명령으로 github mylab repository에서 clone 한다.
 
 		`git clone https://github.com/proddam/mylab.git`
+
 
 
 
